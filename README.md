@@ -14,7 +14,13 @@ It is a cellular automaton system that consists of a grid of cells that evolve a
 ## Clone the repository
 '''bash
 
-git clone 
+git clone https://github.com/The-Neo-Programmer/Game-Of-Life.git
+cd Game-Of-Life
 
 ## Install requirements
 - Please run the following code in your terminal
+- pip install -r requirements.txt
+
+## Running the simulation
+- Run the code in your terminal
+- python game_of_life.py
