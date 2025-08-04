@@ -1,0 +1,2 @@
+Pygame    [pip install pygame]
+NumPy     [pip install numpy]
